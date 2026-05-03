@@ -3,9 +3,6 @@
         {
             "source": "/(.*)",
             "destination": "/"
-        },
-        {
-            "cleanUrls": true
         }
     ]
 }

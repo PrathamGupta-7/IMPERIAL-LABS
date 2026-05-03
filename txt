@@ -1,0 +1,55 @@
+<section class="w-full" style="padding: 6% 5%;">
+    <div class="max-w-5xl mx-auto grid md:grid-cols-2 gap-8 items-center">
+     <div class="relative h-64 md:h-80 rounded-lg overflow-hidden order-2 md:order-1" >
+      <div class="absolute inset-0 flex items-center justify-center">
+       <div class="text-center"><i data-lucide="trending-up" style="width:80px;height:100px;margin:0 auto;"></i>
+        <img src="media/image/Screenshot (17).png" >
+       </div>
+      </div>
+     </div>
+     <div class="service-card fade-in-delay order-1 md:order-2">
+      <div class="service-card-content">
+       <h3 id="service-2-title" class="font-sora font-bold mb-4" style="font-size:1.4rem;letter-spacing:-0.01em;">Website Building</h3>
+       <p id="service-2-desc" class="leading-relaxed mb-4" style="color:#999;font-size:0.95rem;">We build modern, high-converting websites that turn visitors into customers.</p>
+       <ul class="feature-list">
+        <li style="font-size:0.95rem;">Portfolio Websites</li>
+        <li style="font-size:0.95rem;">Landing Pages for Products, Startups & Events</li>
+        <li style="font-size:0.95rem;">Static Business Pages for Shops, Freelancers & Event Planners</li>
+        <li style="font-size:0.95rem;">Event Invitation Websites</li>
+       </ul>
+       <p id="service-2-outcome" class="outcome-highlight" style="color:#9D7BFF;">Turn your social media into a consistent growth engine.</p>
+      </div>
+     </div>
+    </div>
+   </section><!-- DIVIDER -->
+   <div class="divider-glow w-full"></div>
+
+
+      <section class="w-full" style="padding: 6% 5%;">
+    <div class="max-w-5xl mx-auto grid md:grid-cols-2 gap-8 items-center">
+     <div class="service-card fade-in-delay">
+      <div class="service-card-content">
+       <h3 id="service-1-title" class="font-sora font-bold mb-4" style="font-size:1.4rem;letter-spacing:-0.01em;">Event Invitation</h3>
+       <p id="service-1-desc" class="leading-relaxed mb-4" style="color:#999;font-size:0.95rem;">We craft visually stunning invitations that capture attention and build anticipation before your event even begins.</p>
+       <ul class="feature-list">
+        <li style="font-size:0.95rem;">Custom Invitation Cards : Starting at - Rs. 1499</li>
+        <li style="font-size:0.95rem;">Video & Motion Invitations: Starting at - Rs. 2999</li>
+        <li style="font-size:0.95rem;">Social Media Event Creatives: </li>
+       </ul>
+       <p id="service-1-outcome" class="outcome-highlight" style="color:#9D7BFF;">First impressions start with the invite. Make it unforgettable.</p>
+      </div>
+     </div>
+     <div class="video-container relative rounded-lg overflow-hidden h-full">
+  
+  <video autoplay muted loop playsinline>
+    <source src="media/video/Rice Ceremony Invitation (3).mp4" type="video/mp4">
+  </video>
+
+  <!-- Optional overlay -->
+  <div class="absolute inset-0 flex items-end p-4 bg-gradient-to-t from-black/40 to-transparent">
+    <p class="text-sm text-gray-300">Invitation Sample</p>
+  </div>
+
+</div>
+   </section><!-- DIVIDER -->
+   <div class="divider-glow w-full"></div>

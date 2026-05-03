@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en" class="h-full">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact - Imperial Labs</title>
+  <script src="https://cdn.tailwindcss.com/3.4.17"></script>
+  <script src="/_sdk/element_sdk.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;600;700;800&amp;family=Inter:wght@300;400;500&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="contact.css">
+  <script src="https://cdn.jsdelivr.net/npm/lucide@0.263.0/dist/umd/lucide.min.js"></script>
+  <script src="/_sdk/data_sdk.js" type="text/javascript"></script>
+ </head>
+ <body class="h-full overflow-auto">
+  <!-- NAVBAR -->
+  <nav class="navbar">
+   <div class="navbar-content">
+    <div id="navbar-logo" class="navbar-logo">
+     Imperial Labs
+    </div>
+    <ul class="navbar-menu">
+     <li><a href="index.html" style="color:#ccc;">Home</a></li>
+     <li><a href="about.html" style="color:#ccc;">About</a></li>
+     <li><a href="service.html" style="color:#ccc;">Services</a></li>
+     <li><a href="contact.html" class="active" style="color:#6C3BFF;text-shadow:0 0 15px rgba(108, 59, 255, 0.5);">Contact</a></li>
+    </ul>
+   </div>
+  </nav>
+  <div class="w-full min-h-full relative main-content">
+   <!-- HEADER -->
+   <header class="relative w-full overflow-hidden" style="padding: 10% 5% 8%;">
+    <div class="orb" style="width:500px;height:500px;background:#6C3BFF;opacity:0.07;top:-15%;left:-10%;"></div>
+    <div class="orb" style="width:300px;height:300px;background:#6C3BFF;opacity:0.05;bottom:5%;right:10%;"></div>
+    <div class="relative z-10 max-w-3xl mx-auto text-center">
+     <p class="font-sora text-xs tracking-[0.3em] uppercase mb-6 fade-in section-label">Let's Connect</p>
+     <h1 id="contact-heading" class="font-sora font-extrabold leading-tight mb-6 fade-in" style="font-size:2.5rem;letter-spacing:-0.02em;">Get In Touch</h1>
+     <p id="contact-subtext" class="fade-in-delay max-w-2xl mx-auto leading-relaxed" style="color:#999;font-size:1.1rem;">Ready to scale your brand? Let's talk.</p>
+    </div>
+   </header><!-- DIVIDER -->
+   <div class="divider-glow w-full"></div><!-- CONTACT OPTIONS -->
+   <section class="w-full" style="padding: 8% 5%;">
+    <div class="max-w-4xl mx-auto">
+     <h2 class="font-sora font-extrabold text-center mb-12 fade-in-delay" style="font-size:1.8rem;letter-spacing:-0.02em;color:#fff;">Get In Touch</h2>
+     <div style="display:flex;gap:3rem;flex-wrap:wrap;justify-content:center;align-items:flex-start;">
+      <div class="option-item">
+       <div class="option-icon">
+        <i data-lucide="message-circle" style="width:40px;height:40px;"></i>
+       </div>
+       <div class="option-title">
+        WhatsApp
+       </div>
+       <p id="whatsapp-text" class="option-text" style="margin-bottom:1.5rem;">Chat with us directly</p><a href="https://wa.me/+918420086228" target="_blank" rel="noopener noreferrer" class="contact-link" style="font-size:0.95rem;padding:0.75rem 1.5rem;">Start Chat</a>
+      </div>
+      <div class="option-item">
+       <div class="option-icon">
+        <i data-lucide="mail" style="width:40px;height:40px;"></i>
+       </div>
+       <div class="option-title">
+        Email
+       </div>
+       <p id="email-text" class="option-text" style="margin-bottom:1.5rem;">imperiallabs01@gmail.com</p><a href="mailto:imperiallabs01@gmail.com" class="contact-link" style="font-size:0.95rem;padding:0.75rem 1.5rem;">Send Email</a>
+      </div>
+      <div class="option-item">
+       <div class="option-icon">
+        <i data-lucide="instagram" style="width:40px;height:40px;"></i>
+       </div>
+       <div class="option-title">
+        Instagram
+       </div>
+       <p id="instagram-text" class="option-text" style="margin-bottom:1.5rem;">imperiallabs01</p><a href="https://instagram.com/imperiallabs01" class="contact-link" style="font-size:0.95rem;padding:0.75rem 1.5rem;">Visit</a>
+      </div>
+     </div>
+    </div>
+   </section><!-- DIVIDER -->
+   <div class="divider-glow w-full"></div><!-- FINAL CTA -->
+   <section class="relative w-full overflow-hidden" style="padding: 10% 5%;">
+    <div class="orb" style="width:400px;height:400px;background:#6C3BFF;opacity:0.08;top:50%;left:50%;transform:translate(-50%,-50%);"></div>
+    <div class="relative z-10 text-center max-w-2xl mx-auto">
+     <h2 id="final-heading" class="font-sora font-extrabold mb-6 fade-in-delay" style="font-size:2.5rem;letter-spacing:-0.02em;">Let's Build Your Growth Engine</h2>
+     <button id="final-btn" onclick="window.location.href='tel:+918420086228'" class="glow-btn text-white font-semibold rounded-full cursor-pointer fade-in-delay" style="padding:18px 52px;font-size:1rem;letter-spacing:0.02em;">Book a Call</button>
+    </div>
+   </section><!-- FOOTER -->
+   <footer class="w-full text-center" style="padding:4% 5% 3%;">
+    <p class="text-xs" style="color:#333;">© 2026 Imperial Labs. All rights reserved.</p>
+   </footer>
+  </div>
+  <script src="contact.js"></script>
+</body>
+</html>

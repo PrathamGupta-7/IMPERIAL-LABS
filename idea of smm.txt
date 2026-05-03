@@ -1,0 +1,63 @@
+The AIMM Strategy: 3 Core Pillars
+The video breaks down the business model into three scalable services:
+
+Pillar 1: AI Product Photography 
+03:43
+Opens in a new window
+
+The Problem: Small brands find professional studio shoots (₹15k+) too expensive.
+
+The Solution: Use AI to create studio-quality images in minutes.
+
+Tools: Flair.ai for backgrounds, Peblly for themed scenes, and ChatGPT for custom image generation. 
+05:40
+Opens in a new window
+
+Potential Earnings: ₹2,000–₹5,000 per set of 10 images. 
+08:15
+Opens in a new window
+
+Pillar 2: AI UGC (User-Generated Content) Videos 
+16:37
+Opens in a new window
+
+The Problem: Real UGC creators charge ₹10k–₹15k per video, which is unaffordable for small brands needing 15+ videos a month.
+
+The Solution: Create "authentic-looking" videos using AI avatars and stock footage.
+
+Process: Script with ChatGPT, voiceover with 11 Labs, and visual generation with HeyGen or Runway ML. 
+18:42
+Opens in a new window
+
+Potential Earnings: ₹3,000–₹8,000 per video. 
+21:19
+Opens in a new window
+
+Pillar 3: Social Media Marketing (SMM) 
+22:26
+Opens in a new window
+
+The Service: Managing a brand's entire social presence (content calendars, captions, scheduling).
+
+Execution: Use ChatGPT for 30-day content calendars and Canva AI for graphic design. 
+23:52
+Opens in a new window
+
+Potential Earnings: ₹15,000–₹25,000 per month per client as recurring income. 
+25:51
+Opens in a new window
+
+Key Professional Advice
+Professional Portfolio 
+09:30
+Opens in a new window: Vaibhav stresses that sending Google Drive links or WhatsApp screenshots looks amateur. He recommends building a professional website using Hostinger’s AI Builder to establish authority. 
+11:52
+Opens in a new window
+
+Target Clients 
+08:35
+Opens in a new window: Look for brands on Instagram with 1,000 to 50,000 followers. They usually have some budget but lack professional content.
+
+The "Genius" Move 
+26:25
+Opens in a new window: By offering all three pillars, you become a "one-stop solution," making it nearly impossible for the brand to replace you.
